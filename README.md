@@ -45,7 +45,7 @@ To run the simulator, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-    cd turing-machine-simulator
+    cd Turing_Machine_Simulator
    ```
 3. Run the program:
    ```bash
